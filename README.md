@@ -3,7 +3,7 @@
 ## Info
 <a href="https://discord.gg/redfaction" alt="Red Faction Discord">
         <img src="https://img.shields.io/badge/Discord-Red%20Faction-blueviolet.svg?style=flat&logo=discord" /></a>
-  <a href="https://github.com/SimpleArrows/RFMM/releases" alt="Download RFMM">
+  <a href="https://github.com/SimpleArrows/MPMI/releases" alt="Download RFMM">
         <img src="https://img.shields.io/badge/Releases-Mod%20Installer-informational.svg?style=flat&logo=github" /></a>
 
 
