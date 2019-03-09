@@ -13,7 +13,11 @@ You can use this program to create MP mods. In order to play with people with th
 
 If you are to make MP mods with this tool, keep in mind that some xtbl files in table and misc are different from eachother. You'll have to find out which files are different and edit them correctly.
 
-This installer is still in development, if you come across any bugs please DM me on Discord (Arrows#5699) or make an issue in the second tab of this GitHub!
+---
+
+This installer is still in development, if you come across any bugs please DM me on Discord (Arrows#5699) or make an issue in the second tab of this GitHub! Please keep in mind the design of this program may change, features could be removed, changed or added to most likely make the user experience smoother/easier.
+
+At the moment this not a very organised GitHub, this should change eventually.
 
 ## Images
 
