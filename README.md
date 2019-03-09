@@ -6,7 +6,9 @@
   <a href="https://github.com/SimpleArrows/RFMM/releases" alt="Download RFMM">
         <img src="https://img.shields.io/badge/Releases-Mod%20Installer-informational.svg?style=flat&logo=github" /></a>
 
-This program
+This program will help you install mods that require xtbls in both the misc and table VPPs to be edited. 
+
+You can use this program to create MP mods. In order to play with people with this mod, you will need the other players to also install it!
 
 ## Images
 
