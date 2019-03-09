@@ -10,4 +10,4 @@ This program
 
 ## Images
 
-![alt text](https://cdn.discordapp.com/attachments/551584643728670747/551585254423396383/unknown.png "Development picture")
+![alt text](https://cdn.discordapp.com/attachments/551584643728670747/553778135779377163/unknown.png "Development picture")
